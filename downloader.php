@@ -1693,3 +1693,4 @@ SCRIPT;
 
 $downloader = new Magento_Downloader_Action();
 $downloader->run();
+
